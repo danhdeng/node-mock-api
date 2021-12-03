@@ -1,0 +1,12 @@
+{
+  "name": "node-mock-api",
+  "version": "1.0.0",
+  "description": "implment a mock api with json-server",
+  "main": "server.js",
+  "repository": "https://github.com/danhdeng/node-mock-api.git",
+  "author": "Dan Deng <hui_danny_deng@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
