@@ -1,5 +1,11 @@
 # node-mock-api
 
+to setup a mock api server with json-server
+
+please more information please visit json-server github
+
+https://github.com/typicode/json-server
+
 # yarn install to install all the package requried by the app
 
 # to call the api
